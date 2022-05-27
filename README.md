@@ -1,5 +1,5 @@
 # text-simplification
-This repository contains the code developed for SimpleText Task 3 of the CLEF2022.
+This repository contains the code developed for Task 3 of SimpleText@CLEF-2022
 
 -simpletext_task3_decorated_run.csv and simpletext_task3_train.csv contain the training data set
 
